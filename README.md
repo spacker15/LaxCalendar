@@ -33,3 +33,5 @@ npm run build
 ## Vercel
 
 Import this GitHub repository into Vercel. Use `npm run build` and output directory `dist`.
+
+Deployment trigger: field-centric calendar source is now on `main`.
